@@ -1,0 +1,5 @@
+MQ135 → ESP32
+
+VCC → 5V
+GND → GND
+AO  → GPIO34
